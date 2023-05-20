@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author guybr
+ *
+ */
+module FindHero {
+}
